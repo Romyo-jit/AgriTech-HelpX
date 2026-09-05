@@ -1,33 +1,34 @@
-🌾 AgriTech-HelpX
+# 🌾 AgriTech-HelpX
 
-AI-Driven Direct Market Access and Price Forecasting Platform
+> **AI-Driven Direct Market Access and Price Forecasting Platform**
 
-SIH Problem Statement: SIH26132
-Theme: Agriculture, FoodTech & Rural Development
-Category: Software
-
+| Project detail | Value |
+| --- | --- |
+| **SIH Problem Statement** | SIH26132 |
+| **Theme** | Agriculture, FoodTech & Rural Development |
+| **Category** | Software |
 
 ---
 
-1. What is AgriTech-HelpX?
+## 1. What is AgriTech-HelpX?
 
 AgriTech-HelpX is a digital agricultural platform designed to connect farmers directly with buyers.
 
 The main goal is to help farmers:
 
-Get better and fairer prices for their crops
+- Get better and fairer prices for their crops
 
-Reduce dependence on middlemen
+- Reduce dependence on middlemen
 
-Access real-time market information
+- Access real-time market information
 
-Find suitable buyers
+- Find suitable buyers
 
-Predict possible future crop prices using AI
+- Predict possible future crop prices using AI
 
-Reduce unnecessary transportation costs
+- Reduce unnecessary transportation costs
 
-Complete transparent digital transactions
+- Complete transparent digital transactions
 
 
 In one simple line:
@@ -39,7 +40,7 @@ In one simple line:
 
 ---
 
-2. The Existing Problem
+## 2. The Existing Problem
 
 Farmers often face several problems after producing their crops.
 
@@ -67,21 +68,17 @@ Problem 5 — Lack of Market Information
 
 Farmers may not have easy access to:
 
-Current prices
-
-Demand
-
-Price trends
-
-Nearby buyers
-
-Market opportunities
+- Current prices
+- Demand
+- Price trends
+- Nearby buyers
+- Market opportunities
 
 
 
 ---
 
-3. Our Proposed Solution
+## 3. Our Proposed Solution
 
 AgriTech-HelpX creates a digital bridge between farmers and buyers.
 
@@ -98,7 +95,7 @@ The farmer can list their crop on the platform, while buyers can search for avai
 
 ---
 
-4. How the Platform Works
+## 4. How the Platform Works
 
 The basic workflow is:
 
@@ -129,7 +126,7 @@ This is essentially the backbone of your entire project.
 
 ---
 
-5. AI-Based Price Forecasting 🤖
+## 5. AI-Based Price Forecasting 🤖
 
 This is one of the most important parts of the project.
 
@@ -137,19 +134,19 @@ The platform can use historical agricultural market data to estimate future pric
 
 Possible inputs:
 
-Historical crop prices
+- Historical crop prices
 
-Crop type
+- Crop type
 
-Market/location
+- Market/location
 
-Season
+- Season
 
 Demand
 
-Previous price trends
+- Previous price trends
 
-Other relevant market factors
+- Other relevant market factors
 
 
 The data goes into an ML model:
@@ -183,7 +180,7 @@ Important: The prediction should be presented as an estimated forecast, not as a
 
 ---
 
-6. Real-Time Market Price
+## 6. Real-Time Market Price
 
 The platform can integrate agricultural market data/API sources to display current prices.
 
@@ -207,7 +204,7 @@ This helps with price discovery.
 
 ---
 
-7. Smart Farmer-Buyer Matching
+## 7. Smart Farmer-Buyer Matching
 
 The platform can intelligently match farmers with suitable buyers.
 
@@ -248,7 +245,7 @@ This can help reduce unnecessary transportation and improve market access.
 
 ---
 
-8. Location-Based Matching 📍
+## 8. Location-Based Matching 📍
 
 GPS/location data can be used to identify:
 
@@ -278,7 +275,7 @@ This makes the recommendation more practical.
 
 ---
 
-9. Multi-Language Support
+## 9. Multi-Language Support
 
 Since the platform targets farmers, language accessibility is important.
 
@@ -293,7 +290,7 @@ A simple interface combined with regional-language support can make the platform
 
 ---
 
-10. Transparent Transactions
+## 10. Transparent Transactions
 
 Once a farmer and buyer agree on a transaction, the platform can maintain a digital transaction record.
 
@@ -316,7 +313,7 @@ This can improve transparency and reduce opportunities for price manipulation or
 
 ---
 
-11. Logistics & Delivery 🚚
+## 11. Logistics & Delivery 🚚
 
 The platform can also support logistics planning.
 
@@ -328,60 +325,50 @@ The system can then help identify an efficient delivery option.
 
 Potential benefits:
 
-Lower transportation cost
-
-Reduced unnecessary travel
-
-Faster delivery
-
-Better farmer profitability
+- Lower transportation cost
+- Reduced unnecessary travel
+- Faster delivery
+- Better farmer profitability
 
 
 
 ---
 
-12. Technology Stack
+## 12. Technology Stack
 
 According to your presentation, your proposed technology stack is:
 
 Frontend
 
-HTML5
-
-Tailwind CSS
-
-JavaScript
-
-Node.js
+- HTML5
+- Tailwind CSS
+- JavaScript
+- Node.js
 
 
 Backend
 
-Python
-
-Scikit-learn
-
-Keras
-
-Matplotlib
+- Python
+- Scikit-learn
+- Keras
+- Matplotlib
 
 
 Database
 
-PostgreSQL
+- PostgreSQL
 
 
 APIs
 
-e-NAM API
-
-c-iNAM API
+- e-NAM API
+- c-iNAM API
 
 
 
 ---
 
-13. Database Structure
+## 13. Database Structure
 
 Your PostgreSQL database can contain tables such as:
 
@@ -434,7 +421,7 @@ status
 
 ---
 
-14. System Architecture
+## 14. System Architecture
 
 The architecture can be understood as:
 
@@ -463,7 +450,7 @@ USERS
 
 ---
 
-15. Security Layer 🔐
+## 15. Security Layer 🔐
 
 The platform should protect user and transaction data through:
 
@@ -493,7 +480,7 @@ A farmer should only have access to the data and functions permitted for their a
 
 ---
 
-16. Farmer Dashboard
+## 16. Farmer Dashboard
 
 A useful farmer dashboard could contain:
 
@@ -515,7 +502,7 @@ This gives the farmer all the important information in one place.
 
 ---
 
-17. Feasibility
+## 17. Feasibility
 
 Your project is technically feasible because the major components use existing technologies.
 
@@ -542,7 +529,7 @@ Machine-learning models can be trained using historical market-price data.
 
 ---
 
-18. Business Potential 💼
+## 18. Business Potential 💼
 
 Your platform can potentially generate revenue through:
 
@@ -579,7 +566,7 @@ Financial services
 
 ---
 
-19. Expected Impact
+## 19. Expected Impact
 
 💰 Increased Farmer Income
 
@@ -604,7 +591,7 @@ Farmers can reach buyers beyond their immediate local network.
 
 ---
 
-20. Business Flow
+## 20. Business Flow
 
 The complete business flow can be explained as:
 
