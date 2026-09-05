@@ -1,0 +1,16 @@
+User-Agent: *
+Allow: /
+Disallow: /login
+Disallow: /register
+Disallow: /forgot
+Disallow: /set-password
+Disallow: /unauthorized
+Disallow: /myAuction
+Disallow: /myBidding
+Disallow: /myListing
+Disallow: /profile
+Disallow: /comingsoon
+Disallow: /api/
+
+Host: https://agribid.ai
+Sitemap: https://agribid.ai/sitemap.xml
